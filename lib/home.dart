@@ -39,7 +39,7 @@ class _HomeState extends State<Home> {
               },
               child: Text('go to about'),
 
-            ),
+            ), 
             ElevatedButton(
               onPressed: (){
                 Navigator.pushReplacement(
